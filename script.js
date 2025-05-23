@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_API_KEY'; // Replace with your actual API key
+const API_KEY = 'efed9c2093a5705aaedc7202';
 const API_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/latest/`;
 
 async function convertCurrency() {
